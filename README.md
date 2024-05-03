@@ -1,5 +1,4 @@
-# Breast Cancer Classification - Assignment 3
-
+# Breast Cancer Classification
 **Author:** 
 
 Asra Tasneem Shaik  
