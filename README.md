@@ -1,5 +1,5 @@
 # Breast Cancer Classification using Machine Learning
-**Author:** 
+## Author:
 
 Asra Tasneem Shaik  
 
@@ -7,7 +7,7 @@ Asra Tasneem Shaik
 
 02-05-2024
 
-**Programming Language & Version:** 
+## Programming Language & Version:
 
 Python 3.8  
 
